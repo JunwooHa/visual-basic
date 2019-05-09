@@ -1,0 +1,12 @@
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project005\project005\bin\Debug\project005.exe.config
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project005\project005\bin\Debug\project005.exe
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project005\project005\bin\Debug\project005.pdb
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project005\project005\bin\Debug\project005.xml
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project005\project005\obj\Debug\project005.vbprojAssemblyReference.cache
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project005\project005\obj\Debug\project005.Form1.resources
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project005\project005\obj\Debug\project005.Resources.resources
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project005\project005\obj\Debug\project005.vbproj.GenerateResource.cache
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project005\project005\obj\Debug\project005.vbproj.CoreCompileInputs.cache
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project005\project005\obj\Debug\project005.exe
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project005\project005\obj\Debug\project005.xml
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project005\project005\obj\Debug\project005.pdb

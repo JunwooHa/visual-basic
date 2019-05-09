@@ -1,0 +1,16 @@
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\chapter002\chapter002\bin\Debug\chapter002.exe.config
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\chapter002\chapter002\bin\Debug\chapter002.exe
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\chapter002\chapter002\bin\Debug\chapter002.pdb
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\chapter002\chapter002\bin\Debug\chapter002.xml
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\chapter002\chapter002\obj\Debug\chapter002.Form1.resources
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\chapter002\chapter002\obj\Debug\chapter002.Resources.resources
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\chapter002\chapter002\obj\Debug\chapter002.vbproj.GenerateResource.cache
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\chapter002\chapter002\obj\Debug\chapter002.vbproj.CoreCompileInputs.cache
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\chapter002\chapter002\obj\Debug\chapter002.exe
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\chapter002\chapter002\obj\Debug\chapter002.xml
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\chapter002\chapter002\obj\Debug\chapter002.pdb
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\chapter002\chapter002\obj\Debug\chapter002.Form2.resources
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\chapter002\chapter002\obj\Debug\chapter002.Form3.resources
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\chapter002\chapter002\obj\Debug\chapter002.vbprojAssemblyReference.cache
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\chapter002\chapter002\obj\Debug\chapter002.Form4.resources
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\chapter002\chapter002\obj\Debug\chapter002.Form5.resources

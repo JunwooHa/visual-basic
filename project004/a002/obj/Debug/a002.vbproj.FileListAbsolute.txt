@@ -1,0 +1,11 @@
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project004\a002\bin\Debug\a002.exe.config
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project004\a002\bin\Debug\a002.exe
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project004\a002\bin\Debug\a002.pdb
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project004\a002\bin\Debug\a002.xml
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project004\a002\obj\Debug\a002.Form1.resources
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project004\a002\obj\Debug\a002.Resources.resources
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project004\a002\obj\Debug\a002.vbproj.GenerateResource.cache
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project004\a002\obj\Debug\a002.vbproj.CoreCompileInputs.cache
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project004\a002\obj\Debug\a002.exe
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project004\a002\obj\Debug\a002.xml
+C:\Users\하준우\Desktop\공부방\비쥬얼베이직\project004\a002\obj\Debug\a002.pdb
